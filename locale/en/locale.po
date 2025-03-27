@@ -12,7 +12,7 @@ msgstr ""
 "Language: \n"
 
 msgid "plugins.generic.customPDFViewer.displayName"
-msgstr "Inline HTML Galley for Bootstrap"
+msgstr "Custom PDF Viewer"
 
 msgid "plugins.generic.customPDFViewer.description"
-msgstr "This plugin provides inline rendering support for HTML Galleys."
+msgstr "This plugin provides a custom PDF rendering support for Galleys."

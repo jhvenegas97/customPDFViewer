@@ -2,11 +2,9 @@
 <!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
 
 <!--
-  * plugins/generic/inlineHtmlGalley/version.xml
+  * plugins/generic/customPDFViewer/version.xml
   *
-  * Copyright (c) University of Pittsburgh
-  * Copyright (c) 2014-2020 Simon Fraser University
-  * Copyright (c) 2003-2020 John Willinsky
+  * Copyright (c) Jonathan Venegas
   * Distributed under the GNU GPL v2 or later. For full terms see the file docs/COPYING.
   *
   * Plugin version information.
